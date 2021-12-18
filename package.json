@@ -1,0 +1,21 @@
+{
+    "name": "tomorrowmyst",
+    "displayName": "TomorrowMyst",
+    "description": "Darker version of Tomorrow Night.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TomorrowMyst",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TomorrowMyst-color-theme.json"
+            }
+        ]
+    }
+}
