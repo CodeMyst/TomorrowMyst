@@ -8,6 +8,7 @@
         "type": "git",
         "url": "https://github.com/CodeMyst/TomorrowMyst"
     },
+    "icon": "tomorrowmyst.png",
     "engines": {
         "vscode": "^1.63.0"
     },
